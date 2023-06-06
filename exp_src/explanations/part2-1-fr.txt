@@ -1,0 +1,7 @@
+Si la pipette doit être remplie :
+3.2. Va à la dernière couleur utilisée
+3.3. Débarrasse-toi de la couleur restante
+3.4. Va à la couleur à utiliser
+3.5. Remplis la pipette avec plus de colorant que nécessaire
+3.6. Éjecte une partie de la couleur supplémentaire pour éviter les bulles
+3.7. Souviens-toi de la couleur actuelle

@@ -1,0 +1,4 @@
+4. Supprime le fichier actuel de la file d'attente
+5. Va à la dernière couleur utilisée
+6. Éjecte la couleur restante dans son bac
+7. Va à la position de départ

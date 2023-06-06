@@ -1,0 +1,4 @@
+4.   Remove current file from the queue
+5.   Go to the last colour used
+6.   Eject the remaining colour back to its bin
+7.   Go to start position

@@ -1,0 +1,5 @@
+Wenn ein Feld gemalt werden muss:
+3.2. Gehe zu dem auszufüllenden Feld
+3.3. Senke Pipette
+3.4. Spucke einen Tropfen Farbe aus
+3.5. Hebe die Pipette an

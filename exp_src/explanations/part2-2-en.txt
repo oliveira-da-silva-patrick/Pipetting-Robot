@@ -1,0 +1,5 @@
+If a field needs to be painted:
+3.2. Go to the field to be filled
+3.3. Lower pipette
+3.4. Eject a drop of paint
+3.5. Lift the pipette

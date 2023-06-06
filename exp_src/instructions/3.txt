@@ -1,0 +1,42 @@
+fill 0 0 16 
+paint 3 3 
+paint 3 4 
+paint 3 5 
+paint 3 6 
+paint 4 3 
+paint 4 6 
+paint 5 3 
+paint 5 6 
+paint 6 2 
+paint 6 3 
+paint 6 5 
+paint 6 6 
+paint 7 2 
+paint 7 3 
+paint 7 5 
+paint 7 6 
+fill 1 1 7 
+paint 2 9 
+paint 2 10 
+paint 3 9 
+paint 4 8 
+paint 4 9 
+paint 5 8 
+paint 5 9 
+fill 1 2 16 
+paint 4 11 
+paint 4 12 
+paint 4 13 
+paint 4 14 
+paint 5 11 
+paint 5 14 
+paint 6 11 
+paint 6 14 
+paint 7 10 
+paint 7 11 
+paint 7 13 
+paint 7 14 
+paint 8 10 
+paint 8 11 
+paint 8 13 
+paint 8 14 

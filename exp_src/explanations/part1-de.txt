@@ -1,0 +1,4 @@
+1.   Datei in der Warteschlange öffnen oder warte bis eine Datei da ist
+2.   Inhalt der Datei lesen
+3.   Zeile für Zeile lesen (wie angezeigt)
+3.1. Prüfen, ob die nächste Anweisung ist, zu malen oder die Pipette zu füllen 

@@ -1,0 +1,4 @@
+1.   Ouvre prochain fichier ou attend qu'un fichier arrive
+2.   Lit le contenu du fichier
+3.   Lit ligne après ligne (comme affiché)
+3.1. Vérifie si la prochaine instruction est d'aller peindre ou de remplir la pipette 

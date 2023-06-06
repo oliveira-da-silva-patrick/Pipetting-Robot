@@ -1,0 +1,4 @@
+4. Entferne die aktuelle Datei aus der Warteschlange
+5. Gehe zur zuletzt verwendeten Farbe
+6. Spucke die restliche Farbe zurück in den Behälter
+7. Gehe zur Startposition

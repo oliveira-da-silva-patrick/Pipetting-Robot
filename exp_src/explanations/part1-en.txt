@@ -1,0 +1,4 @@
+1.   Open file in queue or wait for file if there is none
+2.   Read content of file
+3.   Read line after line (as displayed)
+3.1. Check if next instruction is to go paint or to fill the pipette 

@@ -1,0 +1,5 @@
+Si un champ doit être peint :
+3.2. Va au champ à peindre
+3.3. Baisse la pipette
+3.4. Éjecte une goutte de peinture
+3.5. Monte la pipette

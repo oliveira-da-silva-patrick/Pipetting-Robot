@@ -1,0 +1,7 @@
+Falls die Pipette gefüllt werden muss:
+3.2. Gehe zur zuletzt verwendeten Farbe
+3.3. Entferne restliche Farbe
+3.4. Gehe zur Farbe die verwendet werden soll
+3.5. Fülle die Pipette mit mehr Farbe als nötig
+3.6. Spritze etwas von der zusätzlichen Farbe aus, um Blasen zu vermeiden
+3.7. Merke die aktuelle Farbe

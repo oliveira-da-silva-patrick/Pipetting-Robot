@@ -1,0 +1,54 @@
+fill 0 0 9 
+paint 3 12 
+paint 4 1 
+paint 4 2 
+paint 4 3 
+paint 5 1 
+paint 5 3 
+paint 6 1 
+paint 6 2 
+paint 6 3 
+fill 0 1 12 
+paint 1 6 
+paint 1 7 
+paint 1 8 
+paint 2 6 
+paint 2 7 
+paint 2 8 
+paint 3 6 
+paint 3 7 
+paint 3 8 
+paint 4 6 
+paint 4 7 
+paint 4 8 
+fill 0 2 1 
+paint 5 2 
+fill 1 0 15 
+paint 5 7 
+paint 6 7 
+paint 6 12 
+paint 6 13 
+paint 7 2 
+paint 7 7 
+paint 7 8 
+paint 7 12 
+paint 8 2 
+paint 8 7 
+paint 8 11 
+paint 8 12 
+paint 9 2 
+paint 9 7 
+paint 9 12 
+fill 1 1 12 
+paint 1 12 
+paint 2 11 
+paint 2 12 
+paint 2 13 
+paint 3 10 
+paint 3 11 
+paint 3 13 
+paint 3 14 
+paint 4 11 
+paint 4 12 
+paint 4 13 
+paint 5 12 

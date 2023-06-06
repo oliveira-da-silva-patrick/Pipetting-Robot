@@ -1,0 +1,7 @@
+If the pipette needs to get filled:
+3.2. Go to the colour last used
+3.3. Get rid of remaining colour
+3.4. Go to colour to use
+3.5. Fill pipette with more colour than necessary
+3.6. Eject some of the extra colour to avoid bubbles
+3.7. Remember the current colour
