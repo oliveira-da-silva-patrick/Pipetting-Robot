@@ -18,30 +18,6 @@ To run the explaining application enter on your command line: **bash run_exp.sh*
 **The command line may return some errors concerning sshpass if not installed. These can be ignored. The applications should work fine nonetheless.**
 
 ## File Structure
-root/
-├─ Thesis/
-├─ bash_scripts/
-│  ├─ send.sh
-├─ creations/
-├─ examples/
-├─ exp_src/
-│  ├─ explanations/
-│  ├─ instructions/
-│  ├─ pics/
-│  ├─ exp_mac.py
-├─ ressources/
-├─ robot_src/
-│  ├─ robot.py
-├─ src/
-│  ├─ backend_manager.py
-│  ├─ ui_mac.py
-│  ├─ ui_rasp.py
-├─ README.md
-├─ install.sh
-├─ run.sh
-├─ run_exp.sh
-
-This tree has been created with https://ascii-tree-generator.com/.
 
 - Thesis: In this directory, you can find the thesis belonging to this project and images and screenshots of the different stages of development.
 - bash_scripts: In this directory, the shell scripts that are not meant to be run outside of one of the applications are stored.
