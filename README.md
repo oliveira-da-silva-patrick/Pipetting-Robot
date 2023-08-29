@@ -10,7 +10,10 @@ This projects requires Python and some additional libraries. Xcode may need to b
 To install the different requirements run: **bash install.sh**      
 **To run only the Python applications, sshpass is not necessary.**      
 Sshpass will not be installed with the given script as it is easy to cause security issues with it. It is required to run the robot.      
-In install.sh, you can find how to install it.      
+In install.sh, you can find how to install it.
+If you intend on running the program with the robot, you will need to connect to the robot manually once. To do so, connect
+the robot per cable and enter in your command line: ssh robot@ev3dev.local
+The password is maker. Once this connection has been established the robot should work with the painting app.
 
 ## Run
 To run the painting application enter on your command line: **bash run.sh**      
